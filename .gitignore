@@ -1,0 +1,27 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Claude Code state
+.claude/state/
+.claude/todos/
+
+# Generated
+graphify-out/
+node_modules/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+*.pem
+*.key
+
+# Logs
+*.log
+audit_logs/

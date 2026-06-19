@@ -1,0 +1,23 @@
+# Tool Registry
+# Managed by /tools command. Monthly audit recommended.
+
+meta:
+  last_audit: null
+  next_audit: null
+
+tools: []
+  # Example entry:
+  # - id: example-tool
+  #   name: Example Tool
+  #   status: active  # active / trial / deprecated
+  #   category: development
+  #   installed: 2026-01-01
+  #   purpose: One-line description
+  #   trial_expires: null  # YYYY-MM-DD for trial items
+
+evaluations: []
+  # Example entry:
+  # - id: example-tool
+  #   date: 2026-01-01
+  #   verdict: adopt  # adopt / trial / watch / reject
+  #   reason: Solves X pain point, no overlap with existing tools
